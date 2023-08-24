@@ -1,4 +1,4 @@
-### Alunos
+### Alunos:
      Giovani Reis,
      Natalia Secco,
      Alisson Bastos,
